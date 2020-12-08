@@ -1,5 +1,5 @@
 # WebScrapingBitcoin.com
-In this project I am trying to scrape the Bitcoin.com website and downlaod various paramters belonging to the Bitcoin cryptocurrency. I am using Selenium for this web scraping. 
+In this project I am trying to scrape the Bitcoin.com website and download various parameters belonging to the Bitcoin cryptocurrency. I am using Selenium for this web scraping.
 
 ## Downloads 
 - You need to install Selenium on your system. Command : pip install Selenium 
