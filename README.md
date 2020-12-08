@@ -1,4 +1,4 @@
-# WebScrapingBitcoin.com
+# Web_Scraping_Bitcoin.com
 In this project I am trying to scrape the Bitcoin.com website and download various parameters belonging to the Bitcoin cryptocurrency. I am using Selenium for this web scraping.
 
 ## Downloads 
